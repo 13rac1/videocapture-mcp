@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/13rac1-videocapture-mcp-badge.png)](https://mseep.ai/app/13rac1-videocapture-mcp)
+
 # Video Still Capture MCP
 
 **A Model Context Protocol server for accessing and controlling webcams via OpenCV**
